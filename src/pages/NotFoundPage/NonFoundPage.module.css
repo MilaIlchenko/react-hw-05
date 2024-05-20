@@ -1,0 +1,21 @@
+.text {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+  color: #333;
+}
+
+.text p {
+  margin: 10px 0;
+}
+
+.text a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.text a:hover {
+  color: #0056b3;
+}
